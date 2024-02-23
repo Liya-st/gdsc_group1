@@ -1,0 +1,31 @@
+.prod-img{
+  height: 300px;
+  width:300px;
+  border-radius: 5px;
+  margin: 10px;
+}
+.prod-detail{
+    display: flex;
+    /* justify-content: space-between; */
+    margin-bottom: 200px;
+    margin-left: 150px;
+    gap: 50px;
+}
+.p-d{
+    display: flex;
+    width : 400px;
+    height: 300px;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 10px;
+  
+    border-radius: 4px;
+}
+.btn-cart{
+    background-color: black;
+    color: white;
+    width: 100px;
+    border-radius: 4px;
+    text-align: center;
+    margin-right: 10px;
+}
